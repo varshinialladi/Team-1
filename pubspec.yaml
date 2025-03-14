@@ -30,8 +30,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  carousel_slider: ^4.2.1
-  google_sign_in: ^5.0.7
+  carousel_slider: ^5.0.0
+  google_sign_in: ^6.3.0
   flutter_any_logo: ^1.1.1
   sign_in_button: ^3.2.0
   get: ^4.3.8
@@ -45,7 +45,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_native_splash: ^1.2.1
+  flutter_native_splash: ^2.4.5
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
