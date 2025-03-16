@@ -5,7 +5,14 @@ class Category {
 }
 
 final List<Category> categories = [
-  Category(name: 'Shoes', image: 'images/shoes.jpeg'),
-  Category(name: 'Skincare', image: 'images/skincare.jpeg'),
-  Category(name: 'Electronics', image: 'images/img1.jpeg'),
+  Category(
+    name: 'Shoes',
+    image: 'images/COURT+BOROUGH+LOW+RECRAFT+%28GS%29.png',
+  ),
+  Category(name: 'Electronics', image: 'images/MQTQ3.jpeg'),
+  Category(
+    name: 'Skincare',
+    image:
+        'images/cetaphil-gentle-skin-cleanser-dry-sensitive-skin-473ml_5.jpg.avif',
+  ),
 ];

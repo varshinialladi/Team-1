@@ -41,6 +41,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
   iconsax: ^0.0.8
+  provider: ^6.1.2
 
 dev_dependencies:
   flutter_test:
@@ -75,6 +76,16 @@ flutter:
     - images/img-0.jpeg
     - images/Image(1).jpeg
     - images/product1/product1-1.png
+    - images/shopping.jpeg
+    - images/225491-image2_1.jpg.webp
+    - images/sn0doSPIxE-1002777_Combo_1-1.jpg.avif
+    - images/WMNS+AIR+JORDAN+1+MID.png
+    - images/imagesilder3.jpeg
+    - images/1_0381e9fb-cedc-4f57-8a00-377693f5e88a.jpg.webp
+    - images/MQTQ3.jpeg
+    - images/COURT+BOROUGH+LOW+RECRAFT+%28GS%29.png
+    - images/cetaphil-gentle-skin-cleanser-dry-sensitive-skin-473ml_5.jpg.avif
+    - images/female-user-profile-avatar-is-a-woman-a-character-for-a-screen-saver-with-emotions-illustration-on-a-white-isolated-background-vector.jpg
   
 
 

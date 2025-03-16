@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:team1/BottomNav/cart.dart';
-import 'package:team1/BottomNav/favaroite.dart';
+
 import 'package:team1/BottomNav/home_screen.dart';
 import 'package:team1/BottomNav/profile.dart';
+import 'package:team1/Cart/cart.dart';
+import 'package:team1/Favorite/favorite.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
